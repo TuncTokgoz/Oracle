@@ -1,0 +1,7 @@
+// The object for part 1 could be a coin.
+
+// Part 1: 1. printer, 2. coins; 3. coin-counting machine
+
+//Part 2: Coins properties: size, shape and amount worth
+
+//Coins behaviours: 1. Fall into the coin-counter machine 2. Stack over each other 3. Moving in the direction teh machine is moving them
